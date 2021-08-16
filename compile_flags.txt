@@ -1,0 +1,4 @@
+-IC:\Users\ugo\Documents\Part_Two\Deriving_firstclass
+-std=c++17
+-target
+
